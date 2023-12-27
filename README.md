@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/flagged-enumerations-how-to-represent-features-combinations-into-one-field-f32e46a0885?sk=38b7a167ac8bbcf3bbd876155c68039c" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/flagged-enumerations-how-to-represent-features-combinations-into-one-field" />
 
 # Flagged Enumerations: How To Represent Features Combinations Into One Field
 ### Represent features like [Read, Write, Modify, …] and their combinations into a single field.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*RLZE9dwBXcnZGTZ_-ZexlQ.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_04cbfd35261045c6b86ffa3731e1f535~mv2.png/v1/fill/w_828,h_553,al_c,q_90,enc_auto/488a99_04cbfd35261045c6b86ffa3731e1f535~mv2.png">
 </p>
 
 <br/>
@@ -77,4 +77,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/flagged-enumerations-how-to-represent-features-combinations-into-one-field-f32e46a0885?sk=38b7a167ac8bbcf3bbd876155c68039c
+[Article]: https://www.developmentsimplyput.com/post/flagged-enumerations-how-to-represent-features-combinations-into-one-field
